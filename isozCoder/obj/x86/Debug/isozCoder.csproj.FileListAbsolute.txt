@@ -1,0 +1,9 @@
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\bin\Debug\isozCoder.exe
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\bin\Debug\isozCoder.pdb
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.Form1.resources
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.Properties.Resources.resources
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.exe
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.pdb
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\bin\Debug\GlacialList.dll
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.csproj.GenerateResource.Cache
+D:\GoogleDrive\Works.Net2010\isozCoder\isozCoder\obj\x86\Debug\isozCoder.csprojResolveAssemblyReference.cache
